@@ -1,0 +1,14 @@
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\bin\Debug\sis_login.exe.config
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\bin\Debug\sis_login.exe
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\bin\Debug\sis_login.pdb
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\obj\Debug\sis_login.csprojResolveAssemblyReference.cache
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\obj\Debug\sis_login.Form1.resources
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\obj\Debug\sis_login.Properties.Resources.resources
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\obj\Debug\sis_login.csproj.GenerateResource.Cache
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\obj\Debug\sis_login.exe
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\obj\Debug\sis_login.pdb
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\obj\Debug\sis_login.FrmRegister.resources
+C:\Users\Dalibor\Desktop\Semestri\7.semestar\SIS\Problemski_zadatak_prijava\sis_login\sis_login\obj\Debug\sis_login.FrmRetrievePassword.resources
+C:\Users\Dalibor\Desktop\a\sis_login\bin\Debug\sis_login.exe.config
+C:\Users\Dalibor\Desktop\a\sis_login\obj\Debug\sis_login.exe
+C:\Users\Dalibor\Desktop\a\sis_login\obj\Debug\sis_login.pdb
